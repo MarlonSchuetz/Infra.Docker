@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xk/5/giBL/QfEvLD9lFIxbtlC3sE2sak/ggo7qA9NZy/wcdFSloGRCes9jGO2caDzWtokfPea2W13ZC1nIY2qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marlo\\source\\repos\\TestesAutomatizados\\Infra.Docker\\Infra.Docker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marlo\\.nuget\\packages\\docker.dotnet\\3.125.4\\docker.dotnet.3.125.4.nupkg.sha512",
+    "C:\\Users\\Marlo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Marlo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Marlo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Marlo\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

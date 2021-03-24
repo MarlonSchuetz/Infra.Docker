@@ -1,0 +1,9 @@
+C:\Users\Marlo\source\repos\TestesAutomatizados\Infra.Docker\bin\Debug\netstandard2.0\Infra.Docker.deps.json
+C:\Users\Marlo\source\repos\TestesAutomatizados\Infra.Docker\bin\Debug\netstandard2.0\Infra.Docker.dll
+C:\Users\Marlo\source\repos\TestesAutomatizados\Infra.Docker\bin\Debug\netstandard2.0\Infra.Docker.pdb
+C:\Users\Marlo\source\repos\TestesAutomatizados\Infra.Docker\obj\Debug\netstandard2.0\Infra.Docker.csprojAssemblyReference.cache
+C:\Users\Marlo\source\repos\TestesAutomatizados\Infra.Docker\obj\Debug\netstandard2.0\Infra.Docker.AssemblyInfoInputs.cache
+C:\Users\Marlo\source\repos\TestesAutomatizados\Infra.Docker\obj\Debug\netstandard2.0\Infra.Docker.AssemblyInfo.cs
+C:\Users\Marlo\source\repos\TestesAutomatizados\Infra.Docker\obj\Debug\netstandard2.0\Infra.Docker.csproj.CoreCompileInputs.cache
+C:\Users\Marlo\source\repos\TestesAutomatizados\Infra.Docker\obj\Debug\netstandard2.0\Infra.Docker.dll
+C:\Users\Marlo\source\repos\TestesAutomatizados\Infra.Docker\obj\Debug\netstandard2.0\Infra.Docker.pdb
