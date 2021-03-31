@@ -11,3 +11,5 @@ Utiliza o pacote https://github.com/dotnet/Docker.DotNet.
 - StartContainer
 - StopContainer
 - RemoveContainer
+
+https://www.nuget.org/packages/Infra.Docker/
